@@ -1,0 +1,1 @@
+Launching a private cloud project involves analyzing the need for a private cloud, formulating a plan for how to create a private cloud, developing cloud policies for access and security, deploying and testing the private cloud infrastructure, and training employees and partners on the cloud computing project.
