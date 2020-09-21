@@ -1,0 +1,6 @@
+docker commands
+
+- docker run
+- docker ps
+- docker images
+- docker run -it -d <image-name>
