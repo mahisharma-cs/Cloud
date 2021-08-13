@@ -14,9 +14,9 @@ This chatbot contain the information related to queries related to admission in 
 <br/>
 <table>
   <tr><td>
-  <img src='https://github.com/mahisharma-cs/Cloud/tree/master/IBM/Watson-Assistant/Chatbot/img/1.png' width='100%' height='auto' >
+  <img src='https://github.com/mahisharma-cs/Cloud/blob/master/IBM/Watson-Assistant/Chatbot/img/1.png?raw=true' width='100%' height='auto' >
     </td><td>
-  <img src='https://github.com/mahisharma-cs/Cloud/tree/master/IBM/Watson-Assistant/Chatbot/img/1.png' width='100%' height='auto' />
+  <img src='https://github.com/mahisharma-cs/Cloud/blob/master/IBM/Watson-Assistant/Chatbot/img/2.png?raw=true' width='100%' height='auto' />
     </tr></td>
  </table>
  
