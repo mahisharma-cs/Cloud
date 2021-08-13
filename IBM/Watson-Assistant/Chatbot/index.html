@@ -1,0 +1,49 @@
+<html>
+<head>
+	<title> Mahi | IBM Watson Chat-bot </title>
+</head>
+<body>
+	<br/>
+	<div style='padding:20px;background-color:#fffff0'>
+		<h1>SVVV University | Admission Information</h1>
+		<br/>
+		Admission information page of SVVV university.
+		<table>
+		<br/>
+		<img src='https://media-exp1.licdn.com/dms/image/C511BAQGEj1j8CtuvZw/company-background_10000/0/1538193761372?e=2159024400&v=beta&t=ixatYnEhBLTRZ_3mJAXdbd9PeRZq23mvTTF3k6xnTeU'
+		alt='svvv-img' width='300px' height='160px'
+		style='border-radius:20px;border: 1px solid;margin:15px;padding:5px' />
+		
+		<img src='https://www.svvv.edu.in/SliderPhoto/68.jpg'
+		alt='svvv-img' width='300px' height='160px'
+		style='border-radius:20px;border: 1px solid;margin:15px;padding:5px' />
+		
+		<img src='https://www.svvv.edu.in/uploaded_files/Sports-Complex.jpg'
+		alt='svvv-img' width='300px' height='160px'
+		style='border-radius:20px;border: 1px solid;margin:15px;padding:5px' />
+		</table>
+		<br/><br/>
+	</div>
+	
+	
+	<script>
+  window.watsonAssistantChatOptions = {
+      integrationID: "REPLACE_WITH_integrationID", // The ID of this integration.
+      region: "eu-gb", // The region your integration is hosted in.
+      serviceInstanceID: "REPLACE_WITH_serviceInstanceID", // The ID of your service instance.
+      onLoad: function(instance) { instance.render(); }
+    };
+  setTimeout(function(){
+    const t=document.createElement('script');
+    t.src="https://web-chat.global.assistant.watson.appdomain.cloud/loadWatsonAssistantChat.js";
+    document.head.appendChild(t);
+  });
+</script>
+
+<div style='width:100%;margin:15px;padding:10px;text-align:center;border: 1px solid;float:bottom'>
+    @ created by <a href='github.com/mahisharma-cs'>Mahiransh Sharma</a>
+</div>
+	
+</body>
+
+</html>
